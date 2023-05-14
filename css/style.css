@@ -1,0 +1,13 @@
+body {	font-family: ;
+	font-size: ;
+	font-weight:;
+	color: ;}
+header {background-color: #FCDB00;}
+
+.menu ul li a {
+	padding: 0 35px !important;
+	color: #000000 !important;
+	line-height: 24px;
+	}
+
+.banner {background-color: #FCDB00;}
